@@ -3,3 +3,6 @@ New first line
 Test Line one
 test line 2
 test line 3
+Thanks for coming to class
+I hope you learned what you were looking for
+Have a great day!
